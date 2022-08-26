@@ -1,0 +1,1 @@
+method hp train_set dataset instrument subset note_range intensity polyphony max_iter max_frames n_cps dds_lr g_car mf_car auc_pr auc_roc F_at_05 P_at_05 R_at_05 F_at_thr P_at_thr R_at_thr thr RE LL

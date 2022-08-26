@@ -1,0 +1,26 @@
+{
+	"sr": 16000,
+	"n_fft": 2048,
+	"hop_length": 512,
+	"log_str": 10000,
+	"keep_bins": 0,
+	"keep_frames": 0,
+
+	"data_scale": 1.0,
+	"data_shift": -0.0,
+	"jitter_scale": 0.0,
+
+	"num_blocks": 16,
+	"mlp_width": 256,
+	"mlp_depth": 4,
+	"mlp_actf": "SELU",
+	"weight_norm": false,
+	"permutation": "shuffle",
+	"learning_rate": 1e-3,
+	"l2_reg_str": 5e-5,
+	"dropout": 0.0,
+
+	"batch_size": 512,
+	"num_workers": 8,
+	"num_epochs": -50
+}
