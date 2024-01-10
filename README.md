@@ -4,7 +4,7 @@ This repository hosts the implementation of Differentiable Dictionary Search (DD
 
 ## Install
 
-In your python environment of choice:
+In your Python (tested with 3.8) environment of choice:
 
 `pip install -r requirements.txt`
 
